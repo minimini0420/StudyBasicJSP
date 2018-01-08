@@ -59,4 +59,5 @@ create table buy(
 	sanction varchar(10) default '상품 준비중'
 );
 
-desc buy;
+desc buy; 
+
